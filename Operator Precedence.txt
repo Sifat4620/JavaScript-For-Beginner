@@ -1,0 +1,5 @@
+15 value	*	Multiplication		10 * 5
+15		/	Division		10 / 5
+15		%	Division Remainder	10 % 5	 	 	 
+14		+	Addition		10 + 5
+14		-	Subtraction		10 - 5
